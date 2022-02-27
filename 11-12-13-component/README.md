@@ -1,3 +1,11 @@
+# Vue3组件化开发 一
+
+
+## 父子组件之间通信 
+- 父组件 -> 子组件   props属性 
+- 子组件 -> 父组件   $emit 发事件 
+
+
 # Vue3组件化开发 二
 
 ## 非父子组件的通信
@@ -102,3 +110,17 @@ export default {
 </template>
 ```
 
+
+
+# Vue3组件化开发 三
+
+动态组件
+```
+ <component :is="currentTab"
+            name="coderwhy"
+            :age="18"
+            @pageClick="pageClick">
+</component>
+```
+
+## keep-live
