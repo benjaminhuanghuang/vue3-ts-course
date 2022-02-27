@@ -13,18 +13,31 @@ https://www.youtube.com/watch?v=Nj8Z3MI6DoQ&list=PLsbVibQXuLjpzrwXPpJ4wmF0TKldZu
 - 05 (掌握)v-model和注册Vue组件
 
 - 06 webpack基础打包和css打包
+
 - 07 webpack打包其他资源和插件使用
+
 - 08 Babel解析和Vue文件打包
+
 - 09 devServer-resolve-环境分离
+
 - 10 VueCLI和Vite的使用和原理
+
 - 11 组件化开发之组件通信
+
 - 12 跨组件通信和插槽的使⽤
+
 - 13 动态-异步-keepalive-⽣命周期-组件vModel
+
 - 14 Vue3实现动画-animate-gsap
+
 - 15 vue3的Mixin和CompositionAPI(一)
+
 - 16 ref-computed-watch等API
+
 - 17 CompositionAPI(三)和组件高级用法
+
 - 18 Vue3高级语法补充和Vue3源码一
+
 - 19 Mini-Vue渲染器和响应式系统实现
 - 20 Vue3源码精读和调试技巧(一)
 - 21 Vue3源码阅读和前端路由原理
