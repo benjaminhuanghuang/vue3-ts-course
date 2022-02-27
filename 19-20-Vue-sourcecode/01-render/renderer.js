@@ -25,7 +25,7 @@ const mount = (vnode, container) => {
     }
   }
 
-  // 3.处理children
+  // 3.处理children: sring or array
   if (vnode.children) {
     if (typeof vnode.children === "string") {
       el.textContent = vnode.children;
